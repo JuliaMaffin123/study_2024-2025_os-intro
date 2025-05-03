@@ -106,7 +106,7 @@ header-includes:
 
 7. В течение 10 минут сайт начинает работать по адресу имя-в-GitHub.github.io (рис. [-@fig:007])
 
-![Каталог post с постами](image/7.jpg){#fig:007 width=70%}
+![Сайт](image/7.jpg){#fig:007 width=70%}
 
 # Вывод
 
